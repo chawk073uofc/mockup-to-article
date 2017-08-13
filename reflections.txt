@@ -1,0 +1,9 @@
+* What new skills have you learned?
+Editing and debugging html source files. How to have the browser render source files. HTML tags for text formatting, hyperlinking, and images. Relative and absolute file paths.
+* What has been easy?
+Relative and absolute file paths.
+* What has been difficult?
+Making a website look exactly like a mockup.
+* How have you used the problem solving strategies from the first project to overcome challenges so far?
+Looking up what I don't know on the Mosilla Developer Network's HTML reference page.
+
